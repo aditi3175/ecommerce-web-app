@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useCartContext } from "../../../ecommerce-web-app/src/context/CartContext";
+import { useCartContext } from "../context/CartContext";
 import { useParams, useNavigate } from "react-router-dom";
 import { FaArrowLeft } from "react-icons/fa";
 import { Link } from "react-router-dom";
