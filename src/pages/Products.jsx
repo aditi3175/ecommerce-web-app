@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { useCartContext } from "../../../ecommerce-web-app/src/context/CartContext";
+import { useCartContext } from "../context/CartContext";
 import { Link } from "react-router-dom";
 
 function Products() {
